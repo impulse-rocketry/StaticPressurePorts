@@ -1,0 +1,15 @@
+{
+    "numberOfPorts": 3,
+    "bodyTubeLength": {
+        "value": 17.0,
+        "unit": "mm"
+    },
+    "bodyTubeInsideRadius": {
+        "value": 12.0,
+        "unit": "mm"
+    },
+    "maxVelocity": {
+        "value": 148.0,
+        "unit": "m/sec"
+    }
+}
